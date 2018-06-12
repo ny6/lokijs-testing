@@ -1,0 +1,13 @@
+{
+  "name": "lokijs-testing",
+  "version": "1.0.0",
+  "description": "working on a plugin with lokijs",
+  "main": "index.js",
+  "repository": "git@github.com:theyeshu/lokijs-testing.git",
+  "author": "Yeshu Kochher <yeshu@outlook.in>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lokijs": "^1.5.5"
+  }
+}
