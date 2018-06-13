@@ -7,7 +7,11 @@
   "author": "Yeshu Kochher <yeshu@outlook.in>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
-    "lokijs": "^1.5.5"
+    "lokijs": "^1.5.5",
+    "nodemon": "^1.17.5"
   }
 }
